@@ -4,19 +4,19 @@
 
 ### Initializing the game
 
-![GAMESTART.PNG](https://hephophome.files.wordpress.com/2019/07/constructor1.png)
+![GAMESTART.PNG](/lib/images/constructor1.png)
 
 ### Correct guess
 
-![CORRECT.PNG](https://hephophome.files.wordpress.com/2019/07/constructor2.png)
+![CORRECT.PNG](/lib/images/constructor2.png)
 
 ### Incorrect guess
 
-![INCORRECT.PNG](https://hephophome.files.wordpress.com/2019/07/constructor4.png)
+![INCORRECT.PNG](/lib/images/constructor4.png)
 
 ### Winning the game
 
-![GAMEWIN.PNG](/lib/images/constructor4.png)
+![GAMEWIN.PNG](/lib/images/constructor3.png)
 
 ### Instructions
 
