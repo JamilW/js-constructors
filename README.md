@@ -2,6 +2,10 @@
 
 Constructor App
 
+![GAMESTART.PNG](https://hephophome.files.wordpress.com/2019/07/constructor1.png)
+
+### Initializing the game
+
 The completed game should meet the following criteria:
 
 
