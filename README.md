@@ -16,7 +16,7 @@
 
 ### Winning the game
 
-![GAMEWIN.PNG](lib/constructor4.png)
+![GAMEWIN.PNG](/lib/images/constructor4.png)
 
 ### Instructions
 
