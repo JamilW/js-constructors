@@ -2,9 +2,23 @@
 
 Constructor App
 
+### Initializing the game
+
 ![GAMESTART.PNG](https://hephophome.files.wordpress.com/2019/07/constructor1.png)
 
-### Initializing the game
+### Correct guess
+
+![CORRECT.PNG](https://hephophome.files.wordpress.com/2019/07/constructor2.png)
+
+### Incorrect guess
+
+![INCORRECT.PNG](https://hephophome.files.wordpress.com/2019/07/constructor4.png)
+
+### Winning the game
+
+![GAMEWIN.PNG](https://hephophome.files.wordpress.com/2019/07/constructor3.png)
+
+### Instructions
 
 The completed game should meet the following criteria:
 
