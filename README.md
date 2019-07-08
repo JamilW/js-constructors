@@ -1,6 +1,6 @@
 # js-constructors
 
-Constructor App
+## A Constructor App
 
 ### Initializing the game
 
@@ -16,7 +16,7 @@ Constructor App
 
 ### Winning the game
 
-![GAMEWIN.PNG](https://hephophome.files.wordpress.com/2019/07/constructor3.png)
+![GAMEWIN.PNG](lib/constructor4.png)
 
 ### Instructions
 
